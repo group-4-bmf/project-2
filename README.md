@@ -1,10 +1,10 @@
 ## Welcome to Spongebob fan page
 
-You can use the [editor on GitHub](https://github.com/group-4-bmf/project-2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/63080217/107306944-6d133980-6a4b-11eb-8fd3-e495712c3e89.png)
+
 
 Spongebob is a animated comedy series, created by Stephen Hillenburg made popular within the Nick community.
 
-![image](https://user-images.githubusercontent.com/63080217/107305826-4f44d500-6a49-11eb-8642-1795f31ab0a5.png)
 
 ### Hobbies
 
