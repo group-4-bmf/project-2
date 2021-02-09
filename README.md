@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Spongebob fan page
 
 You can use the [editor on GitHub](https://github.com/group-4-bmf/project-2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
