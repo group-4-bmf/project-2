@@ -1,6 +1,6 @@
 ## Welcome to Spongebob fan page
 
-![image](https://user-images.githubusercontent.com/63080217/107306944-6d133980-6a4b-11eb-8fd3-e495712c3e89.gif)
+![](https://media0.giphy.com/media/l3nFk2DKcnxDdZVq8/giphy.gif)
 
 
 Spongebob is a animated comedy series, created by Stephen Hillenburg made popular within the Nick community.
