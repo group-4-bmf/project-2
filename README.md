@@ -1,27 +1,25 @@
-## Welcome to Spongebob fan page
+## Spongebob's Daily life
 
 ![](https://media0.giphy.com/media/l3nFk2DKcnxDdZVq8/giphy.gif)
 
 
-Spongebob is a animated comedy series, created by Stephen Hillenburg made popular within the Nick community.
+### Who am I?
+
+I am a sponge, who wears square pants every day of the week. My days usually start off with the most important meal
+of the day, which also gives me time to feed my pet snail, Gary!! Once we both had our meals, I head to the best place
+in the whole Bikini Bottom ( Not including Jellyfish feilds) The Krusty Krab!!!
+
+### Job
+![image](https://user-images.githubusercontent.com/63080217/107312040-2de9e600-6a55-11eb-9a9c-27e42aef6a5d.png)
+
+The Krusty Krab is like a second home to me, I even lived there once when I had trouble showing up ealry to work.
+My manager Mr.Krabs is the owner of the establishment, and hired me back when I had my huge silver screen debute. 
+Ever since I saw that "Help Wanted" sign, I have loved flipping patties for Mr.Krabs. Over the years I have met many
+people through the Krusty Krab, such as Whatsittoya, King Neptune, and even Mr.Krabs enemy Plankton.
 
 
-### Hobbies
 
 
-
-```What
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
