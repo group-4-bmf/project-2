@@ -20,18 +20,13 @@ people through the Krusty Krab, such as Whatsittoya, King Neptune, and even Mr.K
 
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Fun Facts
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/group-4-bmf/project-2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. If im not making Kraby patties, I am catching Jellyfish, in the Jellyfish fields.
 
-### Support or Contact
+2. I have had two movies made of me so far, "The Spongebob Movie" and "Spongebob" Sponge out of water". I
+have another one on the way, so be on the look out.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. When I am not ruining Sandy's expirments, I am doing Ka-Ra-Te with her.
+
+4. Currently I have been the longest running series in Nicklodeon, with  13 seasons and still going strong.
