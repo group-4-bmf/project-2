@@ -34,4 +34,4 @@ have another one on the way, so be on the look out.
 
 ### Friends
 
-[Patrick!}(PATRICK.md)
+[Patrick!](PATRICK.md)
