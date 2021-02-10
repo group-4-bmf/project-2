@@ -5,7 +5,7 @@
 
 ### Who am I?
 
-![](https://static.wikia.nocookie.net/spongebob/images/6/60/Asdfghjkl.png/revision/latest?cb=20201011172117)
+![](https://camo.githubusercontent.com/e2d7dff11270d2228d3e6f128b12fc82a9ed9d998882218d5b35837b26449b79/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f73706f6e6765626f622f696d616765732f362f36302f4173646667686a6b6c2e706e672f7265766973696f6e2f6c61746573743f63623d3230323031303131313732313137)
 
 I am a starfish that lives in a rock next to my neighbors Squidward and Spongebob. 
 
