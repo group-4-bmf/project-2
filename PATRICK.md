@@ -9,11 +9,11 @@
 
 I am a starfish that lives in a rock next to my neighbors Squidward and Spongebob. 
 
-## Job
+### Job
 
 I don't have a job.
 
-## Fun Facts
+### Fun Facts
 
 1. The concept of Patrick being stupid is based on the appearance of the sea star; slow and dumb, but in fact, they are crafty and bright.
 
@@ -22,6 +22,11 @@ I don't have a job.
 3. I know how to play the drums.
 
 4. I own a spatula named "Frank."
+
+### Friends
+
+[Spongebob!](README.md)
+[Squidward!](Squidward.md)
 
 
 
