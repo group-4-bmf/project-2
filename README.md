@@ -30,3 +30,8 @@ have another one on the way, so be on the look out.
 3. When I am not ruining Sandy's expirments, I am doing Ka-Ra-Te with her.
 
 4. Currently I have been the longest running series in Nicklodeon, with  13 seasons and still going strong.
+
+
+### Friends
+
+[Patrick!](PATRICK.md)
