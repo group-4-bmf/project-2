@@ -29,4 +29,10 @@ I don't have a job.
 [Squidward!](Squidward.md)
 
 
+### Friends
+[Spongebob!](README.md)
+
+[Squidward!](Squidward.md)
+
+
 
