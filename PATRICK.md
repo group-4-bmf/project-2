@@ -24,4 +24,10 @@ I don't have a job.
 4. I own a spatula named "Frank."
 
 
+### Friends
+[Spongebob!](README.md)
+
+[Squidward!](Squidward.md)
+
+
 
